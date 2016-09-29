@@ -33,6 +33,12 @@ Nouveau test avec {{page.testvar_deux}}
 #### Test de tableau
 
 ---
+layout: index
+testvar_un: My wonderful variable
+testvar_deux: My wonderful deuxieme variable
+---
+
+---
 line1:col1:col2:col3
 line2:col1:col2:col3
 line3:col1:col2:col3

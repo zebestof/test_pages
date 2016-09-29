@@ -26,16 +26,16 @@ testvar_deux: My wonderful deuxieme variable
 
 #### Test de substitution 
 
-Test de {{page.testvar}}
+Test de {{page.testvar_un}}
 
 Nouveau test avec {{page.testvar_deux}}
 
 #### Test de tableau
 
 ---
-col1 : col2 : col3
-col1 : col2 : col3
-col1 : col2 : col3
+line1:col1:col2:col3
+line2:col1:col2:col3
+line3:col1:col2:col3
 ---
 
 ### Welcome to GitHub Pages.

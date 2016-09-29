@@ -32,17 +32,10 @@ Nouveau test avec {{page.testvar_deux}}
 
 #### Test de tableau
 
----
-layout: index
-testvar_un: My wonderful variable
-testvar_deux: My wonderful deuxieme variable
----
-
----
-line1:col1:col2:col3
-line2:col1:col2:col3
-line3:col1:col2:col3
----
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 ### Welcome to GitHub Pages.
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.

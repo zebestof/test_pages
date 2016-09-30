@@ -2,7 +2,7 @@ title: Xav test de title
 email: xav@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   La description de ce site merveilleuxxx !!!!!!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/test_pages/" # the subpath of your site, e.g. /blog
 #url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: zebestof
 github_username:  zebestof

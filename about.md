@@ -30,9 +30,9 @@ Renseignez vous ci dessous pour avoir une étude personnalisée des profils qui 
 
 ## Nos équipes sont réparties entre 3 équipes :
 
-  – les ingénieurs commerciaux 
-  – les account manager
-  – l’équipe IT
+  - les ingénieurs commerciaux 
+  - les account manager
+  - l’équipe IT
  
 Les ingénieurs commerciaux sont vos interlocuteurs privilégiés pour préparer vos campagnes, exprimer vos besoins. Ils sauront vous proposer le meilleur dispositif en fonction de vos objectifs. Pour contacter notre équipe commerciale, cliquez ici.
 

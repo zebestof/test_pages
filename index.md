@@ -51,6 +51,8 @@ _This will also be italic_
 **This text will be bold**
 __This will also be bold__
 
+~~This is not valid any more~~
+
 _You **can** combine them ```the way``` you want_
 
 

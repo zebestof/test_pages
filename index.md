@@ -35,6 +35,11 @@ if (isAwesome){
 }
 ```
 
+## Todo liste
+
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
 ## Test de substitution 
 
 Test de {{page.testvar_un}}

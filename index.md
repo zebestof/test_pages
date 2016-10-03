@@ -43,6 +43,17 @@ if (isAwesome){
 
 Est ce que ca marche :boom: ?
 
+## Text formating 
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them ```the way``` you want_
+
+
 ## Test de substitution 
 
 Test de {{page.testvar_un}}

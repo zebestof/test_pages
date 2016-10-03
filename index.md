@@ -88,5 +88,8 @@ Est ce que ca marche ???
 - {{ post.date | date: "%b %-d, %Y" }} : [{{ post.title | escape }}]({{ post.url | prepend: site.baseurl }})
 {% endfor %}
 
+## End of test
+
+This is the end
 
 [RSS]({{ "/feed.xml" | prepend: site.baseurl }})

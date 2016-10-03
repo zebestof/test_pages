@@ -29,6 +29,12 @@ testvar_deux: My wonderful deuxieme variable
     shell $> Rrrrr
     shell $> ....
 
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
 ## Test de substitution 
 
 Test de {{page.testvar_un}}

@@ -15,6 +15,11 @@ testvar_deux: My wonderful deuxieme variable
 - [Lien interne vers le bas de la page](#test-internal-ref)
 - [Lien externe vers Page 2](pages/page2.html)
 
+### Citations :
+
+>Machine learning is like highschool sex. Everyone says they do it, nobody really does, and no one knows what it actually is.
+>-- [@Mikettownsend](https://twitter.com/Mikettownsend/status/780453119238955008).
+
 ### Code : 
 
     shell $> Rrrrr

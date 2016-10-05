@@ -47,10 +47,7 @@ if (isAwesome){
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [ ] Essayer de faire marcher avec le theme Jekyll minima
 
 ## Emoji 
 
@@ -58,13 +55,11 @@ Est ce que ca marche :boom: ?
 
 ## Text formating 
 
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-~~This is not valid any more~~
+- *This text will be italic*
+- _This will also be italic_
+- **This text will be bold**
+- __This will also be bold__
+- ~~This is not valid any more~~
 
 _You **can** combine them ```the way``` you want_
 

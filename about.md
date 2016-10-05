@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![zbo logo](images/logo.png)
+
 ## Zebestof est une filiale de CCMBENCHMARK
 
 CCM BENCHMARK est le 1er éditeur de sites Français avec plus de 23M de visiteurs uniques chaque mois, soit quasiment un français sur deux.

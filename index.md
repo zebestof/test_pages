@@ -8,7 +8,7 @@ testvar_deux: My wonderful deuxieme variable
 
 ## Images : 
 
-![zbo logo](/images/logo.png)
+![zbo logo](images/logo.png)
 
 ## Icons from FontAwesome <i class='fa fa-flag-o'></i>
 

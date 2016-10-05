@@ -1,0 +1,8 @@
+$max: 360;
+$step: 45;
+@for $i from 1 through ceil($max/$step) { 
+    $value: ($i - 1)*$step + 45; 
+    .fa-rotate-#{$value} { 
+        transform: rotate($value+0deg);
+    } 
+}

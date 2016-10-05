@@ -16,6 +16,8 @@ testvar_deux: My wonderful deuxieme variable
   - <i class='fa fa-pie-chart'></i> Pie
   - <i class='fa fa-bar-chart'></i> Bar
   
+[More icons](http://fontawesome.io/icons/)  
+
 ## Liens : 
 
 - [Lien interne vers le bas de la page](#test-internal-ref)

@@ -16,7 +16,7 @@ testvar_deux: My wonderful deuxieme variable
   - Pie -> <i class='fa fa-pie-chart'></i>
   - Bar -> <i class='fa fa-bar-chart'></i>
  
-<i class='fa fa-cloud fa-5x'></i> Etc ...
+<i class='fa fa-universal-access fa-4x'></i> Etc ...
 
 
 ## Liens : 

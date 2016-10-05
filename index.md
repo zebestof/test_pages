@@ -4,7 +4,7 @@ testvar_un: My wonderful variable
 testvar_deux: My wonderful deuxieme variable
 ---
 
-# <i class='fa fa-bullhorn fa-lg'></i> Xav test
+# <i class='fa fa-bullhorn fa-lg fa-rotate-45'></i> Xav test
 
 ## Images : 
 

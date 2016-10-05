@@ -10,6 +10,12 @@ testvar_deux: My wonderful deuxieme variable
 
 ![zbo logo](images/logo.png)
 
+## Icons from FontAwesome
+
+  - <i class='fa fa-home'></i> Home
+  - <i class='fa fa-universal-access'></i> Universal access
+  - <i class='fa fa-heart'></i> Heart 
+
 ## Liens : 
 
 - [Lien interne vers le bas de la page](#test-internal-ref)

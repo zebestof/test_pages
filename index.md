@@ -16,7 +16,7 @@ testvar_deux: My wonderful deuxieme variable
   - <i class='fa fa-pie-chart'></i> Pie
   - <i class='fa fa-bar-chart'></i> Bar
   
-[More icons <i class='fa fa-link fa-flip-horizontal'></i>](http://fontawesome.io/icons/) 
+[More icons <i class='fa fa-external-link fa-flip-horizontal'></i>](http://fontawesome.io/icons/) 
 
 ## Liens : 
 

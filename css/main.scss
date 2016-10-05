@@ -38,6 +38,7 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
-// Xav test d'import 
+// Imports custom Xav's CSS
 {% include font-awesome.min.css %}
+{% include fa-rotate.scss %}
 {% include table.css %}

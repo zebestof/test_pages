@@ -12,9 +12,9 @@ testvar_deux: My wonderful deuxieme variable
 
 ## Icons from FontAwesome
 
-  - <i class='fa fa-home'></i> Home
-  - <i class='fa fa-universal-access'></i> Universal access
-  - <i class='fa fa-heart'></i> Heart 
+  - <i class='fa fa-area-chart'></i> Area
+  - <i class='fa fa-pie-chart'></i> Pie
+  - <i class='fa fa-bar-chart'></i> Bar 
 
 ## Liens : 
 

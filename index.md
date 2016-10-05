@@ -15,9 +15,7 @@ testvar_deux: My wonderful deuxieme variable
   - <i class='fa fa-area-chart'></i> Area
   - <i class='fa fa-pie-chart'></i> Pie
   - <i class='fa fa-bar-chart'></i> Bar
-
-<i class='fa fa-commenting fa-4x'></i> <i class='fa fa-send-o fa-4x'></i> <i class='fa fa-envelope fa-4x'></i> <i class='fa fa-thumbs-o-up fa-4x'></i> <i class='fa fa-universal-access fa-4x'></i> 
-
+  
 ## Liens : 
 
 - [Lien interne vers le bas de la page](#test-internal-ref)
@@ -95,6 +93,10 @@ Est ce que ca marche ???
 {% for post in site.posts %}
 - {{ post.date | date: "%b %-d, %Y" }} : [{{ post.title | escape }}]({{ post.url | prepend: site.baseurl }})
 {% endfor %}
+
+## Icons again (because I love it)
+
+<i class='fa fa-commenting fa-4x'></i> <i class='fa fa-send-o fa-4x'></i> <i class='fa fa-envelope fa-4x'></i> <i class='fa fa-thumbs-o-up fa-4x'></i> <i class='fa fa-universal-access fa-4x'></i> 
 
 ## End of test
 

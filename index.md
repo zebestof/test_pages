@@ -10,9 +10,7 @@ testvar_deux: My wonderful deuxieme variable
 
 ![zbo logo](images/logo.png)
 
-## Icons from FontAwesome
-
-<i class='fa fa-flag-o fa-4x'></i>
+## <i class='fa fa-flag-o fa-4x'></i> Icons from FontAwesome
 
   - Area -> <i class='fa fa-area-chart'></i>
   - Pie -> <i class='fa fa-pie-chart'></i>

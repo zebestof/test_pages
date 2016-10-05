@@ -93,7 +93,7 @@ Est ce que ca marche ???
 ## Test de Posts dynamiques 
 
 {% for post in site.posts %}
-- {{ post.date | date: "%b %-d, %Y" }} : [{{ post.title | escape }}]({{ post.url | prepend: site.baseurl }})
+  - {{ post.date | date: "%b %-d, %Y" }} : [{{ post.title | escape }}]({{ post.url | prepend: site.baseurl }})
 {% endfor %}
 
 ## Icons again (because I love it)

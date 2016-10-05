@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![zbo logo](/images/logo.png)
+![zbo logo](../images/logo.png)
 
 ## Zebestof est une filiale de CCMBENCHMARK
 

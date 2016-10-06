@@ -15,6 +15,7 @@ testvar_deux: My wonderful deuxieme variable
   - <i class='fa fa-area-chart'></i> Area
   - <i class='fa fa-pie-chart'></i> Pie
   - <i class='fa fa-bar-chart'></i> Bar
+  - <i class='fa fa-cloud'></i> Cloud
   
 [More icons <i class='fa fa-external-link'></i>](http://fontawesome.io/icons/) 
 

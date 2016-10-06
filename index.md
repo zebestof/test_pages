@@ -78,7 +78,6 @@ Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from c
 Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from cell 4
 Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from cell 4
 
-
 &nbsp;
 
 ## Aide pour formater son texte 

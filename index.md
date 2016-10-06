@@ -10,14 +10,6 @@ testvar_deux: My wonderful deuxieme variable
 
 ![zbo logo](images/logo.png)
 
-## Icons from FontAwesome <i class='fa fa-flag-o'></i>
-
-  - <i class='fa fa-area-chart'></i> Area
-  - <i class='fa fa-pie-chart'></i> Pie
-  - <i class='fa fa-bar-chart'></i> Bar
-  
-[More icons <i class='fa fa-external-link'></i>](http://fontawesome.io/icons/) 
-
 ## Liens : 
 
 - [Lien interne vers le bas de la page](#test-internal-ref)
@@ -53,6 +45,14 @@ if (isAwesome){
 
 Est ce que ca marche :boom: ?
 
+## Icons from FontAwesome <i class='fa fa-flag-o'></i>
+
+  - <i class='fa fa-area-chart'></i> Area
+  - <i class='fa fa-pie-chart'></i> Pie
+  - <i class='fa fa-bar-chart'></i> Bar
+  
+[More icons <i class='fa fa-external-link'></i>](http://fontawesome.io/icons/) 
+
 ## Text formating 
 
 - *This text will be italic*
@@ -62,7 +62,6 @@ Est ce que ca marche :boom: ?
 - ~~This is not valid any more~~
 
 _You **can** combine them ```the way``` you want_
-
 
 ## Test de substitution 
 

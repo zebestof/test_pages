@@ -11,4 +11,4 @@ github_username:  zebestof
 markdown: kramdown
 kramdown:
    auto_ids: true
-theme: minima
+#theme: minima
